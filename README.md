@@ -573,15 +573,4 @@ Possible improvements:
 - Add CI/CD workflow for notebook and pipeline version control
 - Add real-time log ingestion using Kafka or Auto Loader
 
----
 
-## Author
-
-**Harshada42**  
-GitHub: [Harshada42](https://github.com/Harshada42)
-
----
-
-## License
-
-This project is created for learning, academic, and portfolio purposes.
