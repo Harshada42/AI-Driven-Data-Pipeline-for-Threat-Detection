@@ -549,15 +549,6 @@ This project demonstrates how data engineering and machine learning can support 
 - Providing explainable feature-level insights
 - Helping analysts prioritize suspicious traffic patterns
 
----
-
-## Resume Summary
-
-This project can be described on a resume as:
-
-> Built an AI-driven cybersecurity data pipeline using Databricks, PySpark, SQL, Delta Lake, and Machine Learning to process 2.5M+ IDS network traffic records. Implemented Bronze-Silver-Gold architecture, created security analytics tables, performed data quality checks, and trained Logistic Regression, Random Forest, and Isolation Forest models for attack detection, achieving 96.26% accuracy and 93.89% attack F1-score with Random Forest.
-
----
 
 ## Future Enhancements
 
